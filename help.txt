@@ -1,0 +1,2 @@
+Instructions to work with myapp
+Dont commit this file to remote repository.
