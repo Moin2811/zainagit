@@ -1,3 +1,5 @@
+#jenkins demo check
+
 pipeline {
 agent any
 parameters {
@@ -18,4 +20,3 @@ echo "APP Password: ${params.SONAR_SERVER_PWD}"
 }
 }
 }
-
